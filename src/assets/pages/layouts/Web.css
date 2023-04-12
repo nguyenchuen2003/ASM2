@@ -1,0 +1,9 @@
+.banner__container {
+    margin-bottom: 50px;
+  }
+  .banner__container img {
+    width: 100%;
+    height: 400px;
+    object-fit: cover;
+    border-radius: 20px;
+  }
